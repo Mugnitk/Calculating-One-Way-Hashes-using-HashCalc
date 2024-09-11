@@ -19,19 +19,19 @@
 
   1. Buka Aplikasi Hashcalc
 
-  ![Screenshot 2024-09-11 212542](https://github.com/user-attachments/assets/8d9288a8-921a-441d-897c-1adbc5680e38)
+      ![Screenshot 2024-09-11 212542](https://github.com/user-attachments/assets/8d9288a8-921a-441d-897c-1adbc5680e38)
 
   2. Pilih Data Format menjadi *Text String*
 
-  <img width="288" alt="Calculating 1" src="https://github.com/user-attachments/assets/64ae2ea0-55ee-435e-a71d-be3fcf3cca2d">
+      <img width="288" alt="Calculating 1" src="https://github.com/user-attachments/assets/64ae2ea0-55ee-435e-a71d-be3fcf3cca2d">
 
   3. Masukan Data yang ingin kamu cari, Dan ceklis juga yang ingin dicari kemudian klik *Calculate*
 
-  <img width="289" alt="Calculating 2" src="https://github.com/user-attachments/assets/789fad8f-40c6-47c7-9317-feb5bbc44cb8">
+      <img width="289" alt="Calculating 2" src="https://github.com/user-attachments/assets/789fad8f-40c6-47c7-9317-feb5bbc44cb8">
 
   4. Maka akan menampilkan seluruh data yang sudah dipilih tadi
 
-  <img width="289" alt="Calculating 3" src="https://github.com/user-attachments/assets/3b05c1f6-8d30-436c-a410-d99987a16771">
+      <img width="289" alt="Calculating 3" src="https://github.com/user-attachments/assets/3b05c1f6-8d30-436c-a410-d99987a16771">
 
 
 
